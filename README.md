@@ -1,5 +1,5 @@
 # Mosaic-creation-program
-First project from my computer vision class by Bogdan Alexe.
+First project from my computer vision class by Bogdan Alexe and Iuliana Georgescu.
   
 How to run:  
 -create a "data" folder to add extracted "colectie" and "imaginiTest" inside  
