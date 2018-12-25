@@ -1,5 +1,5 @@
 # Mosaic-creation-program
-First homework from the computer vision class
+First homework from my computer vision class by Bogdan Alexe.
   
 How to run:  
 -create a "data" folder to add extracted "colectie" and "imaginiTest" inside  
